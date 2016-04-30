@@ -15,6 +15,10 @@ youtube-dl - download videos from youtube.com or other video platforms
 
 # INSTALLATION
 
+To convert videos on a RPI box (OSMC + debian)
+
+    sudo apt-get install libav-tools
+
 To install it right away for all UNIX users (Linux, OS X, etc.), type:
 
     sudo curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
